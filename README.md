@@ -1,2 +1,2 @@
-Learning Pytorch's Basics
+Learning Pytorch's Basics from scratch
 
